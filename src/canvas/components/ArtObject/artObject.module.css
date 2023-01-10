@@ -1,0 +1,19 @@
+.artObject {
+    position: absolute;
+}
+
+.selectSqures {
+    position: fixed;
+    width: 10px;
+    height: 10px;
+    background-color: rgb(0, 0, 0);
+    z-index: 1000000;
+}
+
+.selectSqures:hover {
+    background-color: rgb(61, 61, 61);
+}
+
+.notSelectSqures {
+    display: none;
+}

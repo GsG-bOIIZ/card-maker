@@ -1,0 +1,9 @@
+.App {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('../../public/Elegant_Background-18.jpg');
+  background-color: #d6d6d6;
+  background-repeat: repeat;
+  background-size: 40%;
+}
